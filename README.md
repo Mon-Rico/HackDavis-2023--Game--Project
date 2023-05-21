@@ -9,6 +9,6 @@ ASL Game Project gives players a way to play a player vs player game thorugh ASL
 
 Libraries Used:
 Leap Motion Tracker: https://developer-archive.leapmotion.com/v2?id=skeletal-beta&platform=windows&version=2.3.1.31549
-Unity Assests: 
+Unity Assests: https://assetstore.unity.com/packages/tools/terrain/vegetation-spawner-177192
 
 Team Members of Chabot College Game Lab: Programers: Alejandro, Zaydgta, Monica, Osasusanoo

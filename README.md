@@ -15,4 +15,4 @@ https://assetstore.unity.com/packages/3d/characters/animals/mammals/black-bull-1
 https://assetstore.unity.com/packages/3d/characters/animals/wolf-animated-45505
 https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777
 https://assetstore.unity.com/packages/3d/characters/animals/mammals/free-chibi-cat-165490
-Team Members of Chabot College Game Lab: Programers: Alejandro, Zaydgta, Monica, Osasusanoo
+Team Members of Chabot College Game Lab: Programers: Alejandro, Zayd, Monica, Osasusanoo

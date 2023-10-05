@@ -1,10 +1,10 @@
 # HackDavis-2023--Game--Project
 
-Project for the 2023 hackathon
+Project ASL Sorcery for the 2023 hackathon
 
-Verison 0.00.1 
+Version 0.00.1 
 
-ASL Game Project gives players a way to play a player vs player game thorugh ASL words. This allows Non-ASL users to learn a few sign words as they try the game play. This allows players to learn ASL in an entertaining method.
+ASL Game Project gives players a way to play a player vs. player game through ASL words. This allows non-ASL users to learn a few sign words as they try the gameplay. This allows players to learn ASL in an entertaining method.
 
 
 Libraries Used:
